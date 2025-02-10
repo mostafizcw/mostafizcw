@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently available for job.<br><br>👨‍💻 All of my projects are available at <br><br>📝 I regularly write articles on https://dev.to/<br><br>💬 Ask me about anything about Web Application<br><br>📄 [My Resume](https://drive.google.com/file/d/16anH6nWvF3lyPWsT-4wi3Z-M-kX4PHUP/view?usp=sharing)
+🔭 I’m currently available for job.<br><br>👨‍💻 All of my projects are available at <br><br>📝 I regularly write articles on https://dev.to/<br><br>💬 Ask me about anything about Web Application<br><br>📄 [My Resume](https://drive.google.com/file/d/1Nmnl0Rf9i42k4WfZcGqN9JH9RSgFb9xF/view?usp=sharing)
 
 ###
 
